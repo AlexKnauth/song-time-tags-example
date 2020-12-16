@@ -72,8 +72,10 @@ song-time-tags
     0:00 - 0:16 SOT (Ham, Laurens, Lafayette, Mulligan)
     0:22 - 0:34 RAG1 (Laurens)
     0:34 - 0:46 RAG2 (Laurens)
+    0:37 - 0:40 TMOU (Laurens)
     0:46 - 0:58 RAG1 (Laurens, Lafayette, Mulligan)
     0:58 - 1:11 RAG2 (Laurens, Lafayette, Mulligan, Ham)
+    1:01 - 1:04 TMOU (Laurens, Lafayette, Mulligan, Ham)
     1:13 - 1:19 RAG1 (Laurens, Lafayette, Mulligan, Ham, Chorus)
     1:19 - 1:25 RAG1 (Laurens, Lafayette, Mulligan, Ham, Chorus)
   ;
@@ -209,6 +211,7 @@ song-time-tags
     0:00 - 0:20 SOT (Laurens)
     0:20 - 0:32 RAG1 (Lafayette, Laurens, Mulligan)
     0:32 - 0:43 RAG2 (Laurens, Mulligan, Lafayette)
+    0:34 - 0:37 TMOU (Mulligan)
     0:43 - 0:55 ABS (Ham, Burr, Mulligan, Lafayette)
     1:30 - 1:42 SATIN2 (Acc[Burr])
     1:30 - 1:36 TLSM (Burr)
@@ -375,6 +378,7 @@ song-time-tags
     0:30 - 0:47 RAG1 (Acc[Eliza])
     0:47 - 1:01 RAG2 (Acc[Eliza])
     1:01 - 1:08 RAG2 (Laurens)
+    1:01 - 1:08 TMOU (Laurens)
   ;
   (1,23)
     0:21 - 0:41 NSBL (Acc[Ham])
@@ -500,6 +504,8 @@ song-time-tags
   ;
   (2,4)
     0:00 - 0:12 SIC (Burr)
+    2:09 - 2:21 RENIN1
+    2:21 - 2:34 RENIN1
   ;
   (2,5)
     0:00 - 0:14 ABS (Burr, Ham)
@@ -541,11 +547,28 @@ song-time-tags
     2:52 - 3:01 WOYS (Burr, Jeff, Mads)
   ;
   (2,9)
+    0:00 - 0:17 HBT (Acc[Wash, Ham])
+    0:21 - 0:38 HBT (Acc[Wash, Ham])
     0:27 - 0:30 TLSM (Wash)
     0:58 - 1:03 HTSG (Wash)
+    1:09 - 1:27 HBT (Acc[Wash, Ham])
     1:41 - 1:46 HTSG (Wash)
     2:03 - 2:06 HTSG (Ham)
     2:06 - 2:10 HTSG (Wash)
+    ; 2:53 Reviewing the incidents of my administration
+    ; Capo 1: D   -   A   -   G   -   Gm  -
+    ;     D#: I   -   V   -   IV  -   IVm -
+    ; compare with Story of Tonight:
+    ;         A   -   E   -   F#m -   Dm  -
+    ;      A: I   -   V   -   VIm -   IVm -
+    ; compare with Laurens Interlude:
+    ;         G   -   D   -   Em  -   Cm  -
+    ;      G: I   -   V   -   VIm -   IVm -
+    2:57 - 3:01 TMOU (Acc)
+    3:10 - 3:13 TMOU (Acc)
+    ; 3:30 Anticipate with pleasing expectation
+    ; Capo 1: D   -   C   -
+    ;         I   -   bVII -
     4:05 - 4:11 TJCH (Chorus)
     4:09 - 4:12 HTSG (Ham)
     4:11 - 4:16 TJCH (Chorus)
@@ -569,7 +592,14 @@ song-time-tags
     0:18 - 0:25 DSQK (Acc[Burr, Jeff])
   ;
   (2,12)
+    0:00 - 0:44 RENIN1
+    0:44 - 0:55 RENIN1
     1:01 - 1:05 RWIH (Burr)
+    1:06 - 1:20 RENIN1
+    1:20 - 1:32 RENIN1
+    1:32 - 1:42 RENIN1
+    1:42 - 1:53 RENIN1
+    1:53 - 2:16 RENIN1
     1:58 - 2:04 WOYSIN (Acc[Jeff, Mads, Ham])
     2:04 - 2:08 WOYSIN (Acc[Burr, Ham])
   ;
